@@ -21,3 +21,8 @@ def data():
         "Bob": "(305) 734-0429"
     }
     return jsonify(d)  # convert your data to JSON and return
+
+@app.route('/lab02')
+def resume():
+    return app.send_static_file('lab02_resume.html')
+
