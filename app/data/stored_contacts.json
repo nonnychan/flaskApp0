@@ -1,0 +1,29 @@
+[
+    {
+        "firstname": "สมชาย",
+        "lastname": "ทรงแบด",
+        "phone": "081 123 4567",
+        "postcode": "50270",
+        "subdist": "บ้านทับ",
+        "district": "แม่แจ่ม",
+        "province": "เชียงใหม่"
+    },
+    {
+        "firstname": "สมศรี",
+        "lastname": "บรรจง",
+        "phone": "0877765412",
+        "postcode": "50000",
+        "subdist": "ท่าศาลา",
+        "district": "เมือง",
+        "province": "เชียงใหม่"
+    },
+    {
+        "firstname": "นนท์ปวิธ ",
+        "lastname": "ชัยชาญ",
+        "phone": "0845049260",
+        "postcode": "50230",
+        "subdist": "หางดง",
+        "district": "หางดง",
+        "province": "เชียงใหม่"
+    }
+]

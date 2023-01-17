@@ -4,4 +4,6 @@ app = Flask(__name__, static_folder='static')
 
 app.config['DEBUG'] = True
 app.config['SECRET_KEY'] ='c10acc905bddc947adbb2c8999671d54763eb58b42d6dce4'
+app.config['JSON_AS_ASCII'] = False
+
 from app import views  # noqa
